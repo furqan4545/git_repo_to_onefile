@@ -4,6 +4,10 @@
 
 `git2json.py` is a Python script designed to clone a specified GitHub repository, extract text files (like `.py`, `.md`, `.js`, etc.), and convert these files into a single JSON file. This JSON file can then be used to feed data to ChatGPT AI models, aiding in understanding and analyzing the code context.
 
+### Output
+
+![Alt text](image.png)
+
 ## Usage
 
 To use `git2json.py`, you need to have Python and Git installed on your system. The script takes two command-line arguments: the URL of the GitHub repository to clone and the path where the repository should be cloned.
